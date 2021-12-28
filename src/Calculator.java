@@ -11,12 +11,13 @@ public class Calculator implements ActionListener {
 	//Create the variables for operators and operands
 	String value1, value2, operator;
 	
-	//Create the frame
+	//Create the frame object
 	private static JFrame frame;
 	
-	//Create a text field
+	//Create a text field object
 	private static JTextField textField;
 	
+	//Create the main panel and 3 subpanel objects
 	private static JPanel mainPanel, subPanel1, subPanel2, subPanel3;
 	
 	/**
