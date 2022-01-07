@@ -85,10 +85,6 @@ public class Calculator implements ActionListener {
 				
 		//Create the equals button for the calculator
 		JButton equal_button = new JButton("=");
-				
-		
-		//TO DO figure out functionality for decimal
-		//probably using float instead of int will be enough
 		
 		//Create the decimal button for the calculator
 		JButton decimal_button = new JButton(".");
